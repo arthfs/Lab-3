@@ -4,7 +4,7 @@
 FlashCard with Navigation
 
 ### App Walk-though
-<img src="https://media.giphy.com/media/20fjXBdTeieJNEj6C0/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/20fjXBdTeieJNEj6C0/giphy.gif" width=200><br><br><br>
 <img src="https://media.giphy.com/media/SDqWhPCvHGfofbXWG8/giphy.gif" width=200><br>
 
 ## Required
